@@ -1,4 +1,4 @@
-Retail Data Analysis Dashboard
+**Retail Data Analysis Dashboard**
 This repository presents an advanced Retail Data Analysis Dashboard developed in Excel, designed to provide actionable insights into sales, profits, order quantities, and market performance across various regions. The dashboard is interactive and user-friendly, enabling efficient exploration and understanding of data trends.
 
 Key Features
