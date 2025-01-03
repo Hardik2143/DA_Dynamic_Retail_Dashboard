@@ -57,7 +57,8 @@ Contains information about sales representatives and their regions.
   - Total Quantity = SUM(Quantity).
 - Design a dynamic KPI table with symbols for visual enhancement (e.g., 💰 for Total Sales).
 
----![image](https://github.com/user-attachments/assets/f97be8ec-e500-4c0b-a946-f3a31181e224)
+![image](https://github.com/user-attachments/assets/e153274f-c3b9-48d0-bb9b-0f7d7b70b8d1)
+
 
 
 #### 2. **Sales and Profit Analysis**
@@ -69,7 +70,8 @@ Contains information about sales representatives and their regions.
 - Develop a Line Chart to showcase trends.
 - Add slicers to filter by category, market, or region.
 
----
+![image](https://github.com/user-attachments/assets/9bd85b6b-a1ca-4369-adde-4c3214e5a4f9)
+
 
 #### 3. **Category-Wise Profit**
 **Objective:** Analyze profitability across categories.
@@ -80,7 +82,8 @@ Contains information about sales representatives and their regions.
 - Create a Bar Chart to visualize category profitability.
 - Integrate slicers for interactivity.
 
----
+![image](https://github.com/user-attachments/assets/1ee10444-6400-4557-a46a-348d77ea5ad3)
+
 
 #### 4. **Segment-Wise Sales Share (%)**
 **Objective:** Show sales proportion by customer segment.
@@ -91,7 +94,8 @@ Contains information about sales representatives and their regions.
 - Develop a Pie or Donut Chart to display sales share.
 - Add dynamic labels showing percentage values.
 
----
+![image](https://github.com/user-attachments/assets/4264a4c7-96c0-406b-b787-dabe7ea14946)
+
 
 #### 5. **Sales by Country**
 **Objective:** Analyze sales performance geographically.
@@ -101,7 +105,8 @@ Contains information about sales representatives and their regions.
 - Sort in descending order of Sales.
 - Apply conditional formatting or use a Geographic Map Chart.
 
----
+![image](https://github.com/user-attachments/assets/60db2daa-0f5a-4f2d-9a56-adb4e44c6238)
+
 
 #### 6. **Top 5 Subcategories**
 **Objective:** Identify top-performing subcategories.
@@ -112,7 +117,8 @@ Contains information about sales representatives and their regions.
 - Filter for the top 5 Sub-Categories.
 - Use a Column Chart to visualize results.
 
----
+![image](https://github.com/user-attachments/assets/73d4e0c2-08dc-451b-90dc-b1227eb2b71d)
+
 
 #### 7. **Bottom 5 Subcategories**
 **Objective:** Highlight underperforming subcategories.
@@ -122,7 +128,8 @@ Contains information about sales representatives and their regions.
 - Filter for the bottom 5 Sub-Categories.
 - Use a contrasting Column Chart for visualization.
 
----
+![image](https://github.com/user-attachments/assets/47604b9b-33df-4be7-a99b-1c1e3daa4395)
+
 
 #### 8. **Yearly Sales Trends**
 **Objective:** Analyze sales trends over multiple years.
@@ -132,6 +139,9 @@ Contains information about sales representatives and their regions.
 - Add Sales as values.
 - Develop a Line Chart to display the trend.
 - Include slicers for filtering by category, region, or segment.
+
+![image](https://github.com/user-attachments/assets/ae3f937b-b090-4b8c-a84d-67598b66c77b)
+
 
 ### Dynamic Features
 - **Dynamic Charts:** Automatically update based on slicer inputs.
@@ -156,3 +166,4 @@ The repository includes:
 - Sample visuals for each problem statement.
 - Final dashboard snapshots showcasing all components dynamically.
 
+![image](https://github.com/user-attachments/assets/cd647b81-92c8-4359-9cd7-5cafd794e4e6)
