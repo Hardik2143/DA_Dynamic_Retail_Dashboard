@@ -57,7 +57,8 @@ Contains information about sales representatives and their regions.
   - Total Quantity = SUM(Quantity).
 - Design a dynamic KPI table with symbols for visual enhancement (e.g., 💰 for Total Sales).
 
----
+---![image](https://github.com/user-attachments/assets/f97be8ec-e500-4c0b-a946-f3a31181e224)
+
 
 #### 2. **Sales and Profit Analysis**
 **Objective:** Visualize sales and profit trends to identify patterns.
