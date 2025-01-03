@@ -166,4 +166,4 @@ The repository includes:
 - Sample visuals for each problem statement.
 - Final dashboard snapshots showcasing all components dynamically.
 
-![image](https://github.com/user-attachments/assets/cd647b81-92c8-4359-9cd7-5cafd794e4e6)
+![image](https://github.com/user-attachments/assets/b2195c24-0ccf-4e3b-9b80-4e9ee364c14b)
